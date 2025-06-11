@@ -1,4 +1,4 @@
-#💻 Program Kasir Sederhana
+#💻 Program Kasir Sederhana#
 
 Ini adalah website kasir sederhana berbasis HTML, CSS, dan JavaScript, yang dirancang untuk membantu pencatatan pembelian barang secara cepat dan efisien.
 
