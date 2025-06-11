@@ -16,9 +16,15 @@ Ini adalah website kasir sederhana berbasis HTML, CSS, dan JavaScript, yang dira
 📁 Struktur File
 
 kasir/
-├── index.html      # File utama HTML
-├── style.css       # File styling untuk tampilan
-└── script.js       # Logika interaksi (JavaScript)
+
+├── index.html      # File utama 
+HTML
+
+├── style.css       # File styling
+untuk tampilan
+
+└── script.js       # Logika
+interaksi (JavaScript)
 
 🧠 Cara Menggunakan
 
